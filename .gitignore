@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Streamlit
+.streamlit/cache/
+.streamlit/logs/
+
+# Envs
+.env
+.venv/
+venv/
+
